@@ -1,0 +1,2 @@
+- 👋 Oi, eu sou o Guilherme
+- 🌱 Atualmente estudo Python
