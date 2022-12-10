@@ -1,2 +1,2 @@
 - 👋 Oi, eu sou o Guilherme
-- 🌱 Atualmente estudo Python
+- 🌱 Aprendendo desenvolvimento Front-end.
